@@ -279,18 +279,6 @@ h2, h3{
 	-o-transform:rotate(-20deg);
 	transform:rotate(-20deg);
 }
-.upup{
-	position: fixed;
-	width: 30px;
-	height: 30px;
-	background: #8C6B6B;
-	bottom: 20px;
-	right:7%; 
-	text-align: center;
-	border-radius: 50%;
-	color: white;
-	cursor: pointer;
-}
 #copyr{
 	display: inline;
 }
