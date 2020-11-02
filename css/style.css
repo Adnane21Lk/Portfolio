@@ -291,3 +291,6 @@ h2, h3{
 	color: white;
 	cursor: pointer;
 }
+#copyr{
+	display: inline;
+}
